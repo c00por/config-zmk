@@ -8,11 +8,11 @@
 
         Default {
             bindings = <
-&mt NUMBER_1 Q  &mt NUMBER_2 W      &mt NUMBER_3 E      &mt NUMBER_4 R  &mt N5 T          &mt NUMBER_6 Y  &mt N7 U      &mt N8 I            &mt N9 O             &mt N0 P
-&mt TAB A       &mt C_PLAY_PAUSE S  &mt C_PLAY_PAUSE D  &mt K_PREV F    &mt C_VOL_DN G    &mt C_VOL_UP H  &mt C_NEXT J  &mt LEFT_BRACKET K  &mt RIGHT_BRACKET L  &mt SEMICOLON BACKSPACE
-&kp Z           &mt RC(X) X         &mt RC(C) C         &mt RC(V) V     &kp B             &kp N           &kp M         &kp COMMA           &kp DOT              &kp FSLH
-                                                        &sk LEFT_SHIFT  &kp LCTRL         &mt LG(L) LWIN  &kp ENTER
-                                                                        &kp SPACE         &tog 1
+&mt NUMBER_1 Q  &mt NUMBER_2 W      &mt NUMBER_3 E      &mt NUMBER_4 R  &mt N5 T          &mt NUMBER_6 Y       &mt N7 U      &mt N8 I            &mt N9 O             &mt N0 P
+&mt TAB A       &mt C_PLAY_PAUSE S  &mt C_PLAY_PAUSE D  &mt K_PREV F    &mt C_VOL_DN G    &mt C_VOL_UP H       &mt C_NEXT J  &mt LEFT_BRACKET K  &mt RIGHT_BRACKET L  &mt SEMICOLON BACKSPACE
+&kp Z           &mt RC(X) X         &mt RC(C) C         &mt RC(V) V     &kp B             &kp N                &kp M         &kp COMMA           &kp DOT              &kp FSLH
+                                                        &sk LEFT_SHIFT  &kp LCTRL         &mt LG(L) LWIN       &kp ENTER
+                                                                        &tog 1            &mt RIGHT_ALT SPACE
             >;
         };
 
